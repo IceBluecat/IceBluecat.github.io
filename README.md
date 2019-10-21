@@ -2,6 +2,8 @@
 <body oncontextmenu = "return false" ></body>
 <body onselectstart = "return false" ></body>
 <body oncopy = "return false" ></body>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 </html>
 
 # 大嘎好!这里是猫喵的主要分布地点
