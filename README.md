@@ -43,7 +43,8 @@ r为人民币的缩写，部分模板会根据设定的复杂度有小幅度的�
 
 -    **接模板稿**
 
-<img src="https://raw.githubusercontent.com/IceBluecat/IceBluecat.github.io/master/%E5%86%BB%E7%9B%90%E7%89%8C%E4%BD%A0%E7%9E%85%E5%95%A5.png" width="200" height="150" alt="图片名称" align=center><img src="https://github.com/IceBluecat/IceBluecat.github.io/blob/master/%E5%86%BB%E7%9B%90%E7%89%8C%E6%8A%AC%E5%A4%B4%E7%9C%8B%E4%BD%A0.png?raw=true" width="200" height="150" alt="图片名称" align=center>
+<img src="https://raw.githubusercontent.com/IceBluecat/IceBluecat.github.io/master/%E5%86%BB%E7%9B%90%E7%89%8C%E4%BD%A0%E7%9E%85%E5%95%A5.png" width="200" height="150" alt="图片名称" align=center>
+<img src="https://github.com/IceBluecat/IceBluecat.github.io/blob/master/%E5%86%BB%E7%9B%90%E7%89%8C%E6%8A%AC%E5%A4%B4%E7%9C%8B%E4%BD%A0.png?raw=true" width="200" height="150" alt="图片名称" align=center>
 
 
 
