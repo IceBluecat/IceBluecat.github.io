@@ -44,7 +44,7 @@
 
 -    **接模板稿**
 
-![markdown](https://github.com/IceBluecat/IceBluecat.github.io/blob/master/%E5%86%BB%E7%9B%90%E7%89%8C%E4%BD%A0%E7%9E%85%E5%95%A5.png "markdown")
+![markdown](https://raw.githubusercontent.com/IceBluecat/IceBluecat.github.io/master/%E5%86%BB%E7%9B%90%E7%89%8C%E4%BD%A0%E7%9E%85%E5%95%A5.png)
 -    **接模板稿（魔改）**
     为猫喵对模板的补充与优化。部分模板因对原画师的尊重，约原模后可选择是否
     加价来获取猫喵魔改的版本。
